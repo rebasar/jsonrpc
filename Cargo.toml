@@ -2,6 +2,11 @@
 name = "jsonrpc"
 version = "0.1.0"
 authors = ["R. Emre Başar <rebasar@rebworks.net>"]
+description = "Implementation of JSON-RPC Protocol"
+repository = "https://github.com/rebasar/jsonrpc"
+readme = "README.md"
+keywords = ["json", "rpc"]
+license = "MIT"
 
 [dependencies]
 rustc-serialize = "0.3"
